@@ -38,6 +38,9 @@
   line-height: 48px;
   margin: 20px 0 10px;
 }
+li {
+  text-transform: capitalize;
+}
 ul {
   display: block;
   list-style-type: disc;
