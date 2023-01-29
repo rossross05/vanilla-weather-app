@@ -122,6 +122,10 @@ ul {
   font-weight: 700;
   line-height: 1.5;
 }
+.forecast-temperature-min {
+  opacity: 0.5;
+  margin-left: 10px;
+}
 .Weather footer {
   color: rgba(39, 33, 66, 0.4);
   font-size: 14px;
